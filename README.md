@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drAgon-235
-- 👀 I’m interested in sports, books, Science Fiction & encryption.
-- 🌱 I’m currently learning for the OCA Exam.
-- 💞️ I’m looking to collaborate on current innovational issues.
+- 👀 I’m a Computer Science Expert / Fachinformatiker (IHK)  -  Software Development / Anwendungsentwickler.
+- 🌱 I’m currently taking a course for App-Development in kotlin and swift at the Syntax Institue.
+- 💞️ I’m looking for harmony, accuracy & righteousness.
 - 📫 How to reach me: d.slawo@gmail.com
 
 <!---
