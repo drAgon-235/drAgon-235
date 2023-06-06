@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drAgon-235
-- 👀 I’m a Computer Science Expert / Fachinformatiker (IHK)  -  Software Development / Anwendungsentwickler.
-- 🌱 I’m currently taking a course for App-Development in kotlin and swift at the Syntax Institue.
+- 👀 I’m a Computer Science Expert / Software Development  -  Fachinformatiker (IHK) / Anwendungsentwickler
+- 🌱 I’m currently taking a course for App-Development in kotlin and swift at the Syntax Institue-Berlin.
 - 💞️ I’m looking for harmony, accuracy & righteousness.
 - 📫 How to reach me: d.slawo@gmail.com
 
