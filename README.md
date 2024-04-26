@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Slawo
-- 👀 I’m a Computer Science Expert / Software Development  -  Fachinformatiker / Anwendungsentwickler (IHK) 
+- 👀 I’m a certified Computer Science Expert / Software Development  -  Fachinformatiker / Anwendungsentwickler (IHK) 
 - 🌱 I'm also a certified Mobile Developer (Kotlin and SwiftUI) at the Syntax Institue-Berlin
 - 💞️ "Patience is when you want to freak out, but try to understand instead." 
 - 📫 How to reach me: d.slawo@gmail.com
