@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Slawo
-- 👀 I’m a Computer Science Expert / Software Development  -  Fachinformatiker (IHK) / Anwendungsentwickler
+- 👀 I’m a Computer Science Expert / Software Development  -  Fachinformatiker / Anwendungsentwickler (IHK) 
 - 🌱 I’m currently taking a course for App-Development in kotlin and swift at the Syntax Institue-Berlin.
 - 💞️ I’m looking for harmony, accuracy & righteousness.
 - 📫 How to reach me: d.slawo@gmail.com
